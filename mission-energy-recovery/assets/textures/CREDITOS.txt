@@ -1,0 +1,4 @@
+ORIGEM DAS TEXTURAS
+metal.png      - gerada proceduralmente pelo script graphics/texture_generator.py (Pillow). Autoria do grupo.
+tech_wall.png  - gerada proceduralmente pelo script graphics/texture_generator.py (Pillow). Autoria do grupo.
+Nenhuma imagem de terceiros foi utilizada. Para regenerar: python graphics/texture_generator.py
